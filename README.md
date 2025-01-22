@@ -98,4 +98,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 📧 Contact
 - **Developer**: Hamad Ullah
 - **Email**: [hamadull@uef.fi](mailto:hamadull@uef.fi)
-- **GitHub**: [hammadaiy](https://github.com/hammadaiy)
+- **LinkedIn**: [Hamad Ullah](https://linkedin.com/in/hammadaiy)
